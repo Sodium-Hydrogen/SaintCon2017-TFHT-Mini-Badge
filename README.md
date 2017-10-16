@@ -5,7 +5,7 @@
 * have a SMD ATtiny85
 * A soldering iron that can do SMD
 * A knife to cut traces on the board
-* A [smd clip][smd 8 pin programming clip]
+* A [smd 8 pin programming clip][smd clip]
 * A AVR programmer or an Arduino as ISP
 ## Setting Up Arduino for ATtiny85 ##
 
