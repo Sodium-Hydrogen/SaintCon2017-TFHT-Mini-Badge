@@ -11,7 +11,11 @@
 
 
 ## Setting Up Arduino for ATtiny85 ##
-To add the libraries for the ATtiny boards copy ```https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json ``` into file -> preferences -> Additional Board Manager URLs
+To add the libraries for the ATtiny boards copy 
+```
+https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json 
+``` 
+into file -> preferences -> Additional Board Manager URLs
 ![Add board url](/imgs/boardURL?raw=true)
 
 
